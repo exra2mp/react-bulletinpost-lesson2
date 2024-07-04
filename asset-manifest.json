@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-bulletinpost-reduxlesson2/static/css/main.483ca28e.css",
+    "main.js": "/react-bulletinpost-reduxlesson2/static/js/main.7d8f509a.js",
+    "index.html": "/react-bulletinpost-reduxlesson2/index.html",
+    "main.483ca28e.css.map": "/react-bulletinpost-reduxlesson2/static/css/main.483ca28e.css.map",
+    "main.7d8f509a.js.map": "/react-bulletinpost-reduxlesson2/static/js/main.7d8f509a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.483ca28e.css",
+    "static/js/main.7d8f509a.js"
+  ]
+}
